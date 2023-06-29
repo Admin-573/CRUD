@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="add_data">ADD DATA</string>
+</resources>
